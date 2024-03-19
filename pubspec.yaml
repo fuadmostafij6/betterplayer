@@ -15,7 +15,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.6
-  wakelock:
+  wakelock_plus: ^1.1.6
   meta:
   flutter_widget_from_html_core:
   visibility_detector:
